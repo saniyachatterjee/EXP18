@@ -105,8 +105,7 @@ int main()
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/3ad66dc9-3d94-4185-a9dd-245bfa427e12)
-
+![Screenshot 2024-09-30 123652](https://github.com/user-attachments/assets/56bcdf71-1dd5-4998-a2ec-e96bd98ce029)
 B]
 ```
 #include <iostream>
@@ -183,7 +182,9 @@ int main() {
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/4149c1fc-dbad-456c-863e-c9af58e7a348)
+![Screenshot 2024-09-30 123842](https://github.com/user-attachments/assets/252cf5cf-4c39-4c7f-8533-5a6a433a3553)
+
+
 
 C]
 ```
@@ -278,7 +279,8 @@ int main()
 ```
 o/p:
 
-![image](https://github.com/user-attachments/assets/9624f345-4b9d-4bfc-893a-dd9095a612d7)
+![Screenshot 2024-09-30 123936](https://github.com/user-attachments/assets/ee31cf28-143d-45ff-a89a-d6e72d823f48)
+
 
 # Conclusion
 These three C++ programs demonstrate stack implementation by performing operations such as push, pop, peak, and display while also handling overflow and underflow conditions. The first uses the use of procedures with global variables, whereas the second and third are more versatile, utilizing object-oriented design to contain stack behavior within classes. Each program effectively demonstrates how to manage stack operations, despite differences in structure and error handling.
